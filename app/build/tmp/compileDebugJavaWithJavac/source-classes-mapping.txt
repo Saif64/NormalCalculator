@@ -1,0 +1,4 @@
+com/example/normalcalc/BuildConfig.java
+ com.example.normalcalc.BuildConfig
+com/example/normalcalc/MainActivity.java
+ com.example.normalcalc.MainActivity
